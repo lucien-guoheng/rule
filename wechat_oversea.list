@@ -1,5 +1,5 @@
 # wechat
-DOMAIN-SUFFIX,wechat.com
+# DOMAIN-SUFFIX,wechat.com
 
 # wifi calling for T-mobile
 DOMAIN-SUFFIX,3gppnetwork.org
