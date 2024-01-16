@@ -3,3 +3,6 @@
 
 # wifi calling for T-mobile
 DOMAIN-SUFFIX,3gppnetwork.org
+
+# for youtube music
+DOMAIN-SUFFIX,music.youtube.com
