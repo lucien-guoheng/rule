@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,3gppnetwork.org
 
 # for youtube music
 DOMAIN-SUFFIX,music.youtube.com
+
+# for sonos 
+DOMAIN-SUFFIX,sonos.com
